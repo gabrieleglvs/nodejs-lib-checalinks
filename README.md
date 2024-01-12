@@ -1,0 +1,1 @@
+Projeto desenvolvido no curso 'Node.js: criando sua primeira biblioteca' da plataforma Alura.
